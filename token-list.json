@@ -1,0 +1,23 @@
+{
+  "name": "ChineseJRZilla",
+  "logoURI": "https://github.com/btckings/btckings.github.io/blob/main/static/picture/tokenlogo.png",
+  "keywords": [
+    “Simply hold ChineseJRZilla and you will always get SHIB rewards! Liquidity locked for 10 years!”
+    ],
+    "timestamp": "2021-11-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 56,
+      "address": "0xC8BE053f8F50EEF4436002De553331262CaBE9BF",
+      "name": "ChineseJRZilla",
+      "symbol": "中国军人zilla",
+      "decimals": 18,
+      "logoURI": "https://github.com/btckings/btckings.github.io/blob/main/static/picture/tokenlogo.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
